@@ -13,9 +13,9 @@
 1. Instalar o NODE.JS junto com o NPM (no Google tem o site para o download
 2. Sugiro usar o VSCode como editor de código
 3. Abrir um terminal integrado no VSCode
-4. Dgitar os seguintes comandos: * npx create-react-app MKT_Solus * cd MKT_Solus * npm start
-5. Depois, fazer o download dos arquivos deste repositório e colá-los nas pastas criadas
-6. Se o npm start não funcionar, tente atualizar a versão do npm (um dos comandos pode ser esse: npm install npm@latest –g)
-7. Para ver se o npm está funcionando corretamente, pode digitar npm -v
-8. Após dado o comando npm start, o MVP vai abrir no browaser com a URL padrão localhost:3000
+4. Dgitar os seguintes comandos: a) npx create-react-app MKT_Solus <ENTER> b) cd MKT_Solus <ENTER> c) npm start <ENTER>
+6. Depois, fazer o download dos arquivos deste repositório e colá-los nas pastas criadas
+7. Se o npm start não funcionar, tente atualizar a versão do npm (um dos comandos pode ser esse: npm install npm@latest –g)
+8. Para ver se o npm está funcionando corretamente, pode digitar npm -v
+9. Após dado o comando npm start, o MVP vai abrir no browaser com a URL padrão localhost:3000
 
