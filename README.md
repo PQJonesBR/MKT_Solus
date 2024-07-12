@@ -2,6 +2,7 @@
 * Aluno: Patrick de Azevedo Ferreira
 * Disciplina: Desenvolvimento Front-End Avançcado
 * MVP de Front-End do Portal de Market Place da Solus IT baseado em HTML, CSS, Javascript, React
+* A "dor" que se quer resolver com este MVP é ampliar as formas de venda da empresa Solus IT para a Internet, tanto para serviços, quanto para vendas de equipamentos
 * Versão 1.0 - Data: 12/07/2024
 
 * Acesso ao protótipo do Front-End no FIGMA:
@@ -9,6 +10,12 @@
 **OBS.:** qualquer contratempo com o link acima, gentileza entrar em contato através do e-mail patrickdeazevedo@gmail.com
 
 ## COMO EXECUTAR O MVP?
-1. Instalar o NODE.JS junto com o NPM
-2. 
+1. Instalar o NODE.JS junto com o NPM (no Google tem o site para o download
+2. Sugiro usar o VSCode como editor de código
+3. Abrir um terminal integrado no VSCode
+4. Dgitar os seguintes comandos: * npx create-react-app MKT_Solus * cd MKT_Solus * npm start
+5. Depois, fazer o download dos arquivos deste repositório e colá-los nas pastas criadas
+6. Se o npm start não funcionar, tente atualizar a versão do npm (um dos comandos pode ser esse: npm install npm@latest –g)
+7. Para ver se o npm está funcionando corretamente, pode digitar npm -v
+8. Após dado o comando npm start, o MVP vai abrir no browaser com a URL padrão localhost:3000
 
