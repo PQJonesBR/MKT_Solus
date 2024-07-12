@@ -1,0 +1,26 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "title": "LGPD Full",
+            "price": 100.00,
+            "image": ["https://pdea.adv.br/lgpd.png"],
+            "detail": "Consultoria completa de LGPD com jurídico, TI e processos."
+        },
+        {
+            "id": 2,
+            "title": "Backup na nuvem",
+            "price": 200.00,
+            "image": ["https://pdea.adv.br/backup.png"],
+            "detail": "Backup imutável em novem privada anti-ransomware."
+        },
+        {
+            "id": 3,
+            "title": "Solus Cloud",
+            "price": 300.00,
+            "image": ["https://pdea.adv.br/cloud.png"],
+            "detail": "Hospedagem de máquinas virtuais em nuvem privada com baixa latência."
+        }
+
+    ]
+}
